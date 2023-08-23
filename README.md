@@ -21,7 +21,3 @@ Follow these steps to set up and run DailyInsight on your local machine:
    python manage.py runserver
 
 The application will be accessible at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
-
-## Output
-
-
